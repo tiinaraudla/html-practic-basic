@@ -1,0 +1,23 @@
+/*[name=password]:hover {
+    background-color: magenta;
+    margin-left: 60px;
+}
+
+#register:first-child {
+    text-align: right;
+}
+
+#signup:nth-child(1) {
+    background: darkorange;
+}
+
+a:link {
+    color: darkred;
+    font-size: smaller;
+}
+
+a:visited {
+    color: royalblue;
+    font-family: "Comic Sans MS", sans-serif;
+}
+

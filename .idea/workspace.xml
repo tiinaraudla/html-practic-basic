@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c360957-3e75-4895-8c7a-5d33606905af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/assets/images/AP22236542121098.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/images/java-code.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/template/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/template/schedule.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/template/text-practice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-practice-basic.iml" afterDir="false" />
+    <list default="true" id="7c360957-3e75-4895-8c7a-5d33606905af" name="Changes" comment="commited homeworks">
+      <change afterPath="$PROJECT_DIR$/.idea/assets/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/assets/css/pseudo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/assets/js/homework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/template/form-homework.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/template/task-css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/template/user-registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/template/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/template/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/template/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/template/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/template/text-practice.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/template/text-practice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,7 +49,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/tiinavilu/IdeaProjects/html-practice-basic/.idea/assets/images"
+    "last_opened_file_path": "/Users/tiinavilu/IdeaProjects/html-practice-basic/.idea/assets/images",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -62,8 +68,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675100794177</updated>
-      <workItem from="1675100797995" duration="12443000" />
+      <workItem from="1675100797995" duration="12951000" />
+      <workItem from="1675181253068" duration="54891000" />
     </task>
+    <task id="LOCAL−00001" summary="commited homeworks">
+      <created>1675154480665</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1675154480665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commited homeworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited homeworks" />
   </component>
 </project>

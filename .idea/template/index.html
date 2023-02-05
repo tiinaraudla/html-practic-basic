@@ -2,30 +2,46 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="author" content="Tiina Raudla" >
+    <meta name="viewport" content="width=device-width, intial-scale" >
     <title>SDA school system</title>
+    //kopeerida kõikidesse seotud failidesse
+    <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
+
 </head>
 <body>
+<div id="main-page">
+    <div id="menu">
+    <a href="#" onclick="function showMeAlert()">Contact us</a>
+    </div>
+    <div id="greeting">
+        <h1>Hello, User!</h1>
+        //teksti sees saab värve
+        <p>Welcome to school system!<br/>Here you find more <span style="color: red">schedules and lessons</span> of SDA.</p>
+
+        <div id="image-block" class="hide-me">
+            <img src="../assets/images/java-code.jpg" alt="Java Code Picture" height="200" width="300"/>
+            <a href="https://www.twitter.com" target="_blank">Twitter</a>
+        </div>
+    </div>
+</div>
+<div id="course-list">
+    <h3>Courses:</h3>
+    <ul>
+        <li>Java</li>
+        <li>Pyhton</li>
+        <li>Angular</li>
+        <li>HTML</li>
+        <li>CSS</li>
+    </ul>
+</div>
 <a href="contact.html">Contact us</a>
-<h1>Hello, User!</h1>
-  <p>Welcome to school system!<br/>Here you find more schedules and lessons of SDA.</p>
-
-<img src="../assets/images/java-code.jpg" alt="Java Code Picture" height="200" width="300"/>
-<a href="https://www.twitter.com" target="_blank">Twitter</a>
-
-<h3>Courses:</h3>
-<ul>
-    <li>Java</li>
-    <li>Pyhton</li>
-    <li>Angular</li>
-    <li>HTML</li>
-    <li>CSS</li>
-</ul>
 
 <h3>Languages:</h3>
 <ol>
     <li>Java
     <ul>
-        <li>Spring</li>
+        <li>Spring class="orange"</li>
         <li>Vaadin</li>
         <li>Apache</li>
     </ul>
@@ -33,5 +49,6 @@
     <li>C++</li>
     <li>Scala</li>
 </ol>
+<script src="../assets/js/script.js"></script>
 </body>
 </html>
